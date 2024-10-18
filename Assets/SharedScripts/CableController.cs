@@ -1,7 +1,3 @@
-using System.Collections;
-using System.Collections.Generic;
-using Codice.Client.BaseCommands.CheckIn.Progress;
-using JetBrains.Annotations;
 using UnityEngine;
 using UnityEngine.UI;
 
